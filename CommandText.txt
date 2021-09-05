@@ -1,0 +1,2 @@
+#1. git clone <url> //clone / copy one repo into local directory
+#1. git add <. or file name> // stage the changed files.
