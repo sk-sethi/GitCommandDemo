@@ -3,3 +3,4 @@
 #3. git checkout -b <file name> // create and checks the branch
 #4. git revert Head // undo the last commit and creates a new commit
 #5. git commit --amend // add local commit with last pushed commit instead of creating separate history
+
