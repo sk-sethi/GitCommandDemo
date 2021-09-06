@@ -1,3 +1,4 @@
 #1. git clone <url> //clone / copy one repo into local directory
 #2. git add <. or file name> // stage the changed files.
 #3. git checkout -b <file name> // create and checks the branch
+#4. git revert Head // undo the last commit and creates a new commit
